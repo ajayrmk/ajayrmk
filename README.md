@@ -1,1 +1,1 @@
-<p style="text-align: center;"> ![](https://i.imgur.com/WsGDqij.gif) </p>
+<div style="text-align: center;"> ![](https://i.imgur.com/WsGDqij.gif) </div>
