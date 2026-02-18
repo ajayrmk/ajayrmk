@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ajayrmk/ajayrmk/main/header.gif" alt="Ajay Header" />
+  <img src="https://github.com/ajayrmk/ajayrmk/blob/main/header.gif?raw=true" alt="Header" />
 </p>
 
 <p align="center">
